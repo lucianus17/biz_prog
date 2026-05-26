@@ -29,7 +29,7 @@ st.latex('\int_a^b f(x)dx')
 '# 🎥: 이미지, 오디오, 동영상'
 
 '#### :orange[이미지: st.image()]'
-st.image("./data/python설명.jpeg", caption="파이썬 로고", width=800)
+st.image("./data/pythonimage.jpeg", caption="파이썬 로고", width=800)
 
 '#### :orange[오디오: st.audio()]'
 st.audio("./data/bombinsound.mp3", format="audio/mpeg", loop=True)
